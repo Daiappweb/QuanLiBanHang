@@ -1,0 +1,12 @@
+E:\Code\C#\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.exe.config
+E:\Code\C#\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.exe
+E:\Code\C#\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.pdb
+E:\Code\C#\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.csproj.AssemblyReference.cache
+E:\Code\C#\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Properties.Resources.resources
+E:\Code\C#\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.csproj.GenerateResource.cache
+E:\Code\C#\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.csproj.CoreCompileInputs.cache
+E:\Code\C#\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.exe
+E:\Code\C#\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.pdb
+E:\Code\C#\QuanLiBanHang\QuanLiBanHang\bin\Debug\bin\Debug\Database\Dulieu.mdf
+E:\Code\C#\QuanLiBanHang\QuanLiBanHang\bin\Debug\bin\Debug\Database\Dulieu_log.ldf
+E:\Code\C#\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.frnMain.resources
